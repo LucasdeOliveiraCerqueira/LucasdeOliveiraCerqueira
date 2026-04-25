@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas!
 
 💻 Desenvolvedor em constante evolução, apaixonado por tecnologia e resolução de problemas.
-🚀 Uso o [GitHub](https://github.com?utm_source=chatgpt.com) como meu laboratório pessoal para criar projetos, testar ideias e acompanhar minha evolução.
+🚀 Uso o GitHub como meu laboratório pessoal para criar projetos, testar ideias e acompanhar minha evolução.
 
 ---
 
@@ -49,21 +49,20 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuckasDeveloper\&theme=tokyonight\&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=LuckasDeveloper\&theme=tokyonight\&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckasDeveloper\&layout=compact\&theme=tokyonight\&hide_border=true)
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuckasDeveloper&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuckasDeveloper&theme=tokyonight&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckasDeveloper&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 🏆 Conquistas
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=LuckasDeveloper\&theme=tokyonight\&no-frame=true\&no-bg=true)
-
----
-
-## 🧠 Frase aleatória
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
@@ -79,4 +78,6 @@
 
 ---
 
-✨ *"Construindo hoje o desenvolvedor que quero ser amanhã."*
+## ✨ Frase
+
+💬 *"Construindo hoje o desenvolvedor que quero ser amanhã."*
