@@ -1,8 +1,8 @@
 # Opa! prazer, sou Lucas!
 
 💻 Desenvolvedor em constante evolução, apaixonado por tecnologia e resolução de problemas.
-🚀 Uso o GitHub como meu laboratório pessoal para criar projetos, testar ideias e acompanhar minha evolução.
-(Este Perfil é so para mostrar minha evolução como estudante ao longo dos anos, então vai ter muita coisa bagunçada *risos*).
+\n🚀 Uso o GitHub como meu laboratório pessoal para criar projetos, testar ideias e acompanhar minha evolução.
+\n(Este Perfil é so para mostrar minha evolução como estudante ao longo dos anos, então vai ter muita coisa bagunçada *risos*).
 
 ---
 
