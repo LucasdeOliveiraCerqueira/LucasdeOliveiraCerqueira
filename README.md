@@ -17,7 +17,6 @@
 ## 🌐 Contato
 
 * 📧 Email: **[lucas.o.c.dev.2026@gmail.com](mailto:lucas.o.c.dev.2026@gmail.com)**
-* 🐘 Mastodon: https://mastodon.social/@LucasCerqueira
 
 ---
 
@@ -53,8 +52,6 @@
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuckasDeveloper&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuckasDeveloper&theme=tokyonight&hide_border=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckasDeveloper&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
