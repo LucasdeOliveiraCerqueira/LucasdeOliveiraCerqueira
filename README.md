@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas!
+# Opa! prazer, sou Lucas!
 
 💻 Desenvolvedor em constante evolução, apaixonado por tecnologia e resolução de problemas.
 🚀 Uso o GitHub como meu laboratório pessoal para criar projetos, testar ideias e acompanhar minha evolução.
@@ -59,25 +59,5 @@
 </div>
 
 ---
-
-## 🏆 Conquistas
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=LuckasDeveloper\&theme=tokyonight\&no-frame=true\&no-bg=true)
-
----
-
-## 🔝 Repositórios mais relevantes
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=LuckasDeveloper\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
-
----
-
-## 👀 Visitas no perfil
-
-![Views](https://komarev.com/ghpvc/?username=LuckasDeveloper\&color=blueviolet)
-
----
-
-## ✨ Frase
 
 💬 *"Construindo hoje o desenvolvedor que quero ser amanhã."*
